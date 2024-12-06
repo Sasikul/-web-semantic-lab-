@@ -13,4 +13,4 @@
  git checkout -b feature/home-page
  git checkout development
  git merge feature/home-page
- git merge feature/contact-page
+ git  merge feature/contact-page
